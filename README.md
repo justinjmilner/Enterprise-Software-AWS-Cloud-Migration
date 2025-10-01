@@ -34,7 +34,7 @@
 
 #### After: AWS Serverless Architecture
 
-![AWS Architecture](DB%20Design/Screenshot%202025-10-01%20at%209.38.42%20AM.png)
+![AWS Architecture](DB%20Design/DB%20Diagram.png)
 _Modern serverless architecture with offline-first design_
 
 **Frontend (Mobile & Web)**
@@ -117,29 +117,48 @@ _Automated pattern recognition for component migration_
 
 #### Original Appery.io Interface
 
-![Original UI 1](Appery%20UI%20Examples/Screenshot%202025-10-01%20at%209.41.56%20AM.png)
-![Original UI 2](Appery%20UI%20Examples/Screenshot%202025-10-01%20at%209.42.18%20AM.png)
-![Original UI 3](Appery%20UI%20Examples/Screenshot%202025-10-01%20at%209.42.29%20AM.png)
-_Legacy Appery.io screens with limited mobile optimization_
+![Desktop UI 1](Appery%20UI%20Examples/Desktop%20UI%201.png)
+![Desktop UI 2](Appery%20UI%20Examples/Desktop%20UI%202.png)
+![Desktop UI 3](Appery%20UI%20Examples/Desktop%20UI%203.png)
+_Legacy Appery.io desktop screens with limited mobile optimization_
 
-![Original Forms](Appery%20UI%20Examples/Screenshot%202025-10-01%20at%209.42.41%20AM.png)
-![Original Tables](Appery%20UI%20Examples/Screenshot%202025-10-01%20at%209.43.10%20AM.png)
+![Desktop UI 4](Appery%20UI%20Examples/Desktop%20UI%204.png)
+![Desktop UI 5](Appery%20UI%20Examples/Desktop%20UI%205.png)
 _Complex data entry forms requiring modernization_
+
+![Mobile UI 1](Appery%20UI%20Examples/Mobile%20UI%201.png)
+![Mobile UI 2](Appery%20UI%20Examples/Mobile%20UI%202.png)
+![Mobile UI 3](Appery%20UI%20Examples/Mobile%20UI%203.png)
+_Original mobile interfaces needing responsive improvements_
+
+![Mobile UI 4](Appery%20UI%20Examples/Mobile%20UI%204.png)
+![Mobile UI 5](Appery%20UI%20Examples/Mobile%20UI%205.png)
+_Mobile form factors with usability challenges_
 
 #### Design Process & Mockups
 
-![Design Mockup 1](UI%20Mockups/Screenshot%202025-10-01%20at%209.27.27%20AM.png)
-![Design Mockup 2](UI%20Mockups/Screenshot%202025-10-01%20at%209.27.36%20AM.png)
-![Design Mockup 3](UI%20Mockups/Screenshot%202025-10-01%20at%209.27.58%20AM.png)
+![Design Mockup 1](UI%20Mockups/Mockup%201.png)
+![Design Mockup 2](UI%20Mockups/Mockup%202.png)
+![Design Mockup 3](UI%20Mockups/Mockup%203.png)
 _Initial design concepts focusing on mobile-first approach_
 
-![Responsive Design](UI%20Mockups/Screenshot%202025-10-01%20at%209.28.06%20AM.png)
-![Component Library](UI%20Mockups/Screenshot%202025-10-01%20at%209.28.13%20AM.png)
+![Design Mockup 4](UI%20Mockups/Mockup%204.png)
+![Design Mockup 5](UI%20Mockups/Mockup%205.png)
+![Design Mockup 6](UI%20Mockups/Mockup%206.png)
 _Responsive layouts and reusable component architecture_
+
+![Design Mockup 7](UI%20Mockups/Mockup%207.png)
+![Design Mockup 8](UI%20Mockups/Mockup%208.png)
+![Design Mockup 9](UI%20Mockups/Mockup%209.png)
+_Advanced UI patterns and interaction designs_
+
+![Design Mockup 10](UI%20Mockups/Mockup%2010.png)
+![Design Mockup 11](UI%20Mockups/Mockup%2011.png)
+_Final mockups ready for implementation_
 
 #### Modernized AWS Interface
 
-![New Login](AWS%20Migrated%20UI%20Examples/Migrated%20Login%20UI%20Using...Development%20in%20progress.png)
+![New Login](<AWS%20Migrated%20UI%20Examples/Migrated%20Login%20UI%20Using%20AI%20(Development%20in%20progress).png>)
 _Secure multi-tenant authentication with Cognito_
 
 ![AI-Enhanced UI](<AWS%20Migrated%20UI%20Examples/Migrated%20UI%20With%20AI%20(Development%20in%20progress).png>)
@@ -151,7 +170,7 @@ _Modern interface with AI-assisted features_
 
 #### Schema Design
 
-![Database Schema](DB%20Design/Screenshot%202025-10-01%20at%209.39.22%20AM.png)
+![Database Schema](DB%20Design/DB%20Schema%20Example.png)
 _DynamoDB schema optimized for multi-tenant access patterns_
 
 **Key Features:**
@@ -239,26 +258,6 @@ _DynamoDB schema optimized for multi-tenant access patterns_
 ### 🔧 Technologies Used
 
 `AWS Amplify` `GraphQL` `AppSync` `DynamoDB` `Cognito` `S3` `CloudFront` `Ionic` `Angular` `TypeScript` `Capacitor` `GitLab` `GitHub Actions` `CI/CD` `Agile/Scrum` `Claude AI` `GitHub Copilot`
-
----
-
-### 📁 Portfolio Documentation
-
-**Available Materials** _(Contact for access)_
-
-- Complete architecture diagrams
-- Sprint planning documents
-- Performance benchmarks
-- AI automation scripts
-- Testing strategies
-- Migration playbooks
-
-**Demonstration Capabilities**
-
-- Live offline sync functionality
-- Multi-tenant data isolation
-- Real-time collaboration features
-- Mobile app field testing videos
 
 ---
 
