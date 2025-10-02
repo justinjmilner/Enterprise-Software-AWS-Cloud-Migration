@@ -153,7 +153,7 @@ _Initial design concepts_
 
 #### Modernized AWS Interface
 
-![New Login](<AWS%20Migrated%20UI%20Examples%20(Work%20In%20Progress)/Migrated%20Login%20UI%20Using%20AI%20(Development%20in%20progress).png>)
+![New Login](<AWS%20Migrated%20UI%20Examples%20(Work%20In%20Progress)/Migrated%20LogIn%20UI%20Using%20AI%20(Development%20in%20progress).png>)
 _Secure multi-tenant authentication with Cognito (WORK IN PROGRESS...)_
 
 ![AI-Enhanced UI](<AWS%20Migrated%20UI%20Examples%20(Work%20In%20Progress)/Migrated%20UI%20With%20AI%20(Development%20in%20progress).png>)
