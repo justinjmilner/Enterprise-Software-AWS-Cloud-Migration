@@ -120,49 +120,44 @@ _Automated pattern recognition for component migration_
 ![Desktop UI 1](Appery%20UI%20Examples/Desktop%20UI%201.png)
 ![Desktop UI 2](Appery%20UI%20Examples/Desktop%20UI%202.png)
 ![Desktop UI 3](Appery%20UI%20Examples/Desktop%20UI%203.png)
-_Legacy Appery.io desktop screens with limited mobile optimization_
 
 ![Desktop UI 4](Appery%20UI%20Examples/Desktop%20UI%204.png)
 ![Desktop UI 5](Appery%20UI%20Examples/Desktop%20UI%205.png)
-_Complex data entry forms requiring modernization_
+_Legacy Appery.io desktop screens_
 
 ![Mobile UI 1](Appery%20UI%20Examples/Mobile%20UI%201.png)
 ![Mobile UI 2](Appery%20UI%20Examples/Mobile%20UI%202.png)
 ![Mobile UI 3](Appery%20UI%20Examples/Mobile%20UI%203.png)
-_Original mobile interfaces needing responsive improvements_
 
 ![Mobile UI 4](Appery%20UI%20Examples/Mobile%20UI%204.png)
 ![Mobile UI 5](Appery%20UI%20Examples/Mobile%20UI%205.png)
-_Mobile form factors with usability challenges_
+_Original mobile interfaces needing responsive improvements_
 
 #### Design Process & Mockups
 
 ![Design Mockup 1](UI%20Mockups/Mockup%201.png)
 ![Design Mockup 2](UI%20Mockups/Mockup%202.png)
 ![Design Mockup 3](UI%20Mockups/Mockup%203.png)
-_Initial design concepts focusing on mobile-first approach_
 
 ![Design Mockup 4](UI%20Mockups/Mockup%204.png)
 ![Design Mockup 5](UI%20Mockups/Mockup%205.png)
 ![Design Mockup 6](UI%20Mockups/Mockup%206.png)
-_Responsive layouts and reusable component architecture_
 
 ![Design Mockup 7](UI%20Mockups/Mockup%207.png)
 ![Design Mockup 8](UI%20Mockups/Mockup%208.png)
 ![Design Mockup 9](UI%20Mockups/Mockup%209.png)
-_Advanced UI patterns and interaction designs_
 
 ![Design Mockup 10](UI%20Mockups/Mockup%2010.png)
 ![Design Mockup 11](UI%20Mockups/Mockup%2011.png)
-_Final mockups ready for implementation_
+_Initial design concepts_
 
 #### Modernized AWS Interface
 
 ![New Login](<AWS%20Migrated%20UI%20Examples/Migrated%20Login%20UI%20Using%20AI%20(Development%20in%20progress).png>)
-_Secure multi-tenant authentication with Cognito_
+_Secure multi-tenant authentication with Cognito (WORK IN PROGRESS...)_
 
 ![AI-Enhanced UI](<AWS%20Migrated%20UI%20Examples/Migrated%20UI%20With%20AI%20(Development%20in%20progress).png>)
-_Modern interface with AI-assisted features_
+_Modern interface built with AI assisted code migration (WORK IN PROGRESS...)_
 
 ---
 
